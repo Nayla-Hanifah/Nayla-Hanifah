@@ -9,4 +9,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayla&show_icons=true&theme=radical" />
 </p>
 
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Naylahnf?theme=rule34" alt="visitor.svg">
+</p>
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=Nayla&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
