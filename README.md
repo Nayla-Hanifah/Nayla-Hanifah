@@ -1,16 +1,23 @@
-## Hi there 👋
+## Readme.MD Akun Github Nayla-Hanifah
 
-<!--
-**Nayla-Hanifah/Nayla-Hanifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Statistik Akun:**
 
-Here are some ideas to get you started:
+* **Username:** Nayla-Hanifah
+* **Jumlah Follower:** [Jumlah Follower](https://github.com/Nayla-Hanifah)
+* **Jumlah Repository:** [Jumlah Repository](https://github.com/Nayla-Hanifah)
+* **Jumlah Kontributor:** [Jumlah Kontributor](https://github.com/Nayla-Hanifah)
+* **Bahasa Pemrograman Terutama:** [Daftar Bahasa Pemrograman](https://github.com/Nayla-Hanifah)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Kontributor Utama:**
+
+* [Daftar Kontributor](https://github.com/Nayla-Hanifah)
+
+**Repository Populer:**
+
+* [Daftar Repository Populer](https://github.com/Nayla-Hanifah)
+
+**Catatan:**
+
+* Statistik ini diperbarui secara otomatis.
+* Anda dapat berkontribusi pada repository Nayla-Hanifah dengan membuka pull request.
+* Ikuti Nayla-Hanifah di Github untuk mendapatkan update terbaru tentang proyeknya.
