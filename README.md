@@ -3,18 +3,18 @@
 **Statistik Akun:**
 
 * **Username:** Nayla-Hanifah
-* **Jumlah Follower:** [Jumlah Follower](https://github.com/Nayla-Hanifah)
-* **Jumlah Repository:** [Jumlah Repository](https://github.com/Nayla-Hanifah)
-* **Jumlah Kontributor:** [Jumlah Kontributor](https://github.com/Nayla-Hanifah)
-* **Bahasa Pemrograman Terutama:** [Daftar Bahasa Pemrograman](https://github.com/Nayla-Hanifah)
+* **Jumlah Follower:** [Number of Followers](https://github.com/Nayla-Hanifah)
+* **Jumlah Repository:** [Number of Repositories](https://github.com/Nayla-Hanifah)
+* **Jumlah Kontributor:** [Number of Repositories Kontributor](https://github.com/Nayla-Hanifah)
+* **Bahasa Pemrograman Terutama:** [List of Programming Languages](https://github.com/Nayla-Hanifah)
 
 **Kontributor Utama:**
 
-* [Daftar Kontributor](https://github.com/Nayla-Hanifah)
+* [List of Contributors](https://github.com/Nayla-Hanifah)
 
 **Repository Populer:**
 
-* [Daftar Repository Populer](https://github.com/Nayla-Hanifah)
+* [list of Popular Repositories ](https://github.com/Nayla-Hanifah)
 
 **Catatan:**
 
